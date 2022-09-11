@@ -39,7 +39,7 @@ module.exports = {
         global.wm2 = '©Shiroo-𝘽𝙤𝙩𝙯-𝙈𝘿' + ' ' + 'By Prasz'
         global.wm = '© Shiroo-𝘽𝙤𝙩𝙯--𝙈𝘿'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'By Prasz'
+        global.colong2 = 'By Praszz'
         global.kontak2 = [
         ['6289666747744', 'Prasz', 'Creator Bot', 'Dont Not Spam Me', true],
         ['62895403507298', 'Shiroo Botz-MD', 'Bot WhatsApp', 'Just Bot', true]
