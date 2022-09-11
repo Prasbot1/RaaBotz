@@ -4,7 +4,7 @@
     <a href="https://github.com/RaaaGH"><img title="Created by" src="https://img.shields.io/badge/Creator-RaaBotz San-green?style=for-the-badge&logo=github"></a>
 </p>
 
-# RECODE BY CLARAA
+# RECODE BY Praszz
 
 Simple WhatsApp Bot
 
