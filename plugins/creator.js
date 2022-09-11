@@ -32,7 +32,7 @@ let handler = async(m, { conn }) => {
     contextInfo: { //forwardingScore: 99999, isForwarded: true,
         externalAdReply: { //showAdAttribution: true,
         	sourceUrl: 'https://instagram.com/inizenscuy/',
-            title: 'Jangan Bully Claraa Dia Kang Kopas <3',
+            title: 'Jangan Bully Praszz Dia Kang Kopas <3',
             body: 'Follow IG Saya Bang Biar Keren •~•',
           thumbnail: await (await fetch(pp)).buffer()
         }
